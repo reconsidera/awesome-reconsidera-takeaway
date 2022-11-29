@@ -248,7 +248,8 @@
 
 #### 元数据清除
 
-- [mat2](https://0xacab.org/jvoisin/mat2-web)![Open-Source Software][oss icon] | [Web](https://matweb.info/)
+- [mat2](https://0xacab.org/jvoisin/mat2)![Open-Source Software][oss icon] | [Web](https://matweb.info/)
+- [ExifTool](https://exiftool.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 - [Dangerzone](https://github.com/freedomofpress/dangerzone)![Open-Source Software][oss icon] – Windows/macOS/Linux  
 - [Scrambled Exif](https://gitlab.com/juanitobananas/scrambled-exif)![Open-Source Software][oss icon] – Android
 
