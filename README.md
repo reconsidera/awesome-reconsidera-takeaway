@@ -427,6 +427,28 @@
 - [https://tempmail.plus](https://tempmail.plus)
 - [https://10minutemail.net/?lang=en](https://10minutemail.net/?lang=en)
 - [https://dropmail.me/en/](https://dropmail.me/en/)
+- https://privatlab.com/
+- https://emailfake.com/
+- https://www.fakemail.net/
+- https://www.dispostable.com/
+- https://temp-mail.to/
+- http://mailcatch.com
+- https://getnada.com/
+- https://www.guerrillamail.com/
+- https://www.mailinator.com/
+- https://www.emailondeck.com/
+- https://yopmail.com/en/
+- https://www.33mail.com/
+- https://www.moakt.com/
+- http://mailcatch.com/en/disposable-email
+- http://mytrashmail.com/
+- https://www.emaildrop.io/
+- https://tempr.email/en/
+- https://www.mohmal.com/en
+- https://www.tempinbox.xyz/
+
+credit: https://t.me/iyouport/12099
+
 
 #### 隐私强化前端
 - YouTube -->> [Invidious](https://github.com/iv-org/invidious)![Open-Source Software][oss icon]
