@@ -119,8 +119,8 @@
 ### 代理工具
 
 #### 免费开源的代理工具
-- [迷雾通](https://geph.io)![Open-Source Software][oss icon] | [GitHub 免翻墙镜像](https://github.com/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89)![Open-Source Software][oss icon] – Windows/macOS/Linux/Android/iOS  
-- [nthLink](https://www.nthlink.com/)![Open-Source Software][oss icon] | [AWS 免翻墙下载链接](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/download.html)![Open-Source Software][oss icon] – Windows/macOS/Android/iOS  
+- [迷雾通](https://geph.io)![Open-Source Software][oss icon] | [GitHub 免翻墙镜像](https://github.com/geph-official/geph4-client/wiki/%E8%BF%B7%E9%9B%BE%E9%80%9A%EF%BC%88%E5%85%8D%E7%BF%BB%E5%A2%99%E9%95%9C%E5%83%8F%EF%BC%89) – Windows/macOS/Linux/Android/iOS  
+- [nthLink](https://www.nthlink.com/)![Open-Source Software][oss icon] | [AWS 免翻墙下载链接](https://s3.us-west-1.amazonaws.com/dwo-jar-kmf-883/download.html) – Windows/macOS/Android/iOS  
 - [Psiphon](https://psiphon.ca/zh/download.html)![Open-Source Software][oss icon] – Windows/macOS/Android/iOS
 
 #### 开源翻墙代理客户端
