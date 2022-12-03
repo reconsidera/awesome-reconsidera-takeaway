@@ -9,10 +9,10 @@
 	- [操作系统](#操作系统)    
 		- [隐私友好操作系统](#隐私友好操作系统)  
 		- [隐私强化操作系统](#隐私强化操作系统)  
-		- [操纵系统启动盘制作工具](#操纵系统启动盘制作工具)     
+		- [操作系统启动盘制作工具](#操作系统启动盘制作工具)     
 	- [代理工具](#代理工具)
 		- [免费开源的代理工具](#免费开源的代理工具)
-		- [开源翻墙加密代理客户端](#开源翻墙加密代理客户端)
+		- [开源翻墙代理客户端](#开源翻墙代理客户端)
 		- [免费节点](#免费节点)
 	- [浏览器](#浏览器)
 		- [浏览器扩展](#浏览器扩展)
@@ -60,6 +60,7 @@
 		- [短链接分析工具](#短链接分析工具)   
 		- [加密邮箱](#加密邮箱)
 		- [临时邮箱](#临时邮箱)
+		- [一次性手机号](#一次性手机号)
 		- [隐私强化前端](#隐私强化前端)
 	- [日常办公](#日常办公)
 		- [搜索引擎](#搜索引擎)
@@ -68,7 +69,7 @@
 		- [在线剪贴板](#在线剪贴板)
 		- [翻译](#翻译)
 		- [地图](#地图)
-		- [GitHub镜像站/加速器](#GitHub镜像站/加速器)
+		- [GitHub镜像站](#GitHub镜像站)
 	- [社交媒体](#社交媒体)
 	- [文化资源](#文化资源)
 		- [影视资源](#影视资源)
@@ -205,7 +206,7 @@
 	- [KeePassXC](https://keepassxc.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux  
  	- [KeePass2Android](https://play.google.com/store/apps/details?id=keepass2android.keepass2android)![Open-Source Software][oss icon] - Android  
   	- [Strongbox](https://itunes.apple.com/us/app/strongbox-password-safe/id897283731)![Open-Source Software][oss icon] – iOS/macOS  
-#### 2FA 双因素验证器  
+#### 双因素验证器  
 - [FreeOPT](https://freeotp.github.io)![Open-Source Software][oss icon] – iOS/Android  
 - [Tofu](https://github.com/calleluks/Tofu)![Open-Source Software][oss icon] – iOS  
 - [Aegis Authenticator](https://github.com/beemdevelopment/Aegis)![Open-Source Software][oss icon] – Android  
@@ -229,8 +230,10 @@
 
 
 ### RSS
+
 #### RSS资源导航 
 - [All-about-RSS](https://github.com/AboutRSS/ALL-about-RSS)![Open-Source Software][oss icon] – RSS 相关事物列表，包括工具、服务、社区和教程       
+
 #### RSS阅读器
 - [Raven Reader](https://github.com/hello-efficiency-inc/raven-reader)![Open-Source Software][oss icon] – Windows/macOS/Linux  
 - [Thunderbird](https://www.thunderbird.net/)![Open-Source Software][oss icon] – Windows/macOS/Linux    
@@ -238,6 +241,7 @@
 - [NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire)![Open-Source Software][oss icon] – macOS/iOS  
 - [NewsBlur](https://github.com/samuelclay/NewsBlur)![Open-Source Software][oss icon] – Android  
 - [ReadYou](https://github.com/Ashinch/ReadYou)![Open-Source Software][oss icon] – Android  
+
 #### RSS辅助工具  
 - [RSSHub](https://github.com/DIYgod/RSSHub)![Open-Source Software][oss icon] – 为不支持 RSS 的网站生成 RSS feed  
   - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)![Open-Source Software][oss icon] – 嗅探 RSS 订阅源的浏览器插件  
@@ -291,19 +295,20 @@
 	- [fcitx-rime](https://github.com/fcitx/fcitx-rime) – Linux
 
 #### PDF工具
-  - PDF 阅读器
-    - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)![Open-Source Software][oss icon] – Windows
-  - PDF 注释工具
+- PDF 阅读器
+  - [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader.html)![Open-Source Software][oss icon] – Windows
+- PDF 注释工具
     - [Xournalpp](https://xournalpp.github.io/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 
 #### 电子书工具  
-  - 电子书阅读器
-    - [Koodo Reader](https://github.com/troyeguo/koodo-reader)![Open-Source Software][oss icon] – Windows/macOS/Linux/Web  
-    - [KOReader](https://github.com/koreader/koreader)![Open-Source Software][oss icon] – Linux/Android/Kindle
-    - [Foliate](https://github.com/johnfactotum/foliate)![Open-Source Software][oss icon] – Linux  
-	- [Librera Reader](https://github.com/foobnix/LibreraReader)![Open-Source Software][oss icon] – Android
-  - 电子书管理  
-    - [Calibre](https://calibre-ebook.com/)![Open-Source Software][oss icon] – Windows/macOS/Linux  
+
+- 电子书阅读器
+  - [Koodo Reader](https://github.com/troyeguo/koodo-reader)![Open-Source Software][oss icon] – Windows/macOS/Linux/Web  
+  - [KOReader](https://github.com/koreader/koreader)![Open-Source Software][oss icon] – Linux/Android/Kindle
+  - [Foliate](https://github.com/johnfactotum/foliate)![Open-Source Software][oss icon] – Linux  
+  - [Librera Reader](https://github.com/foobnix/LibreraReader)![Open-Source Software][oss icon] – Android
+- 电子书管理  
+  - [Calibre](https://calibre-ebook.com/)![Open-Source Software][oss icon] – Windows/macOS/Linux  
 
 #### 多媒体播放器  
 - [VLC](https://www.videolan.org/vlc/)![Open-Source Software][oss icon] – Windows/macOS/Linux/Android/iOS  
@@ -359,7 +364,7 @@
 #### 门罗币钱包
 
 - [Monero GUI Wallet](https://www.getmonero.org/downloads/#gui)![Open-Source Software][oss icon] – Windows/macOS/Linux
-- [Feather Wallet](https://featherwallet.org/)![Open-Source Software][oss icon]![Open-Source Software][oss icon] – Windows/macOS/Linux
+- [Feather Wallet](https://featherwallet.org/)![Open-Source Software][oss icon] – Windows/macOS/Linux
 - [Cake Wallet](https://cakewallet.com/)![Open-Source Software][oss icon] – Android/iOS
 - [Monerujo](https://www.monerujo.io/)![Open-Source Software][oss icon] – Android
 
@@ -449,6 +454,51 @@
 
 credit: https://t.me/iyouport/12099
 
+#### 一次性手机号
+
+- Hushed ([Android](https://play.google.com/store/apps/details?id=com.hushed.release) | [iOS](https://itunes.apple.com/us/app/hushed-2nd-phone-number/id600520752&at=1l3vs3K/?at=1l3vs3K))
+- Burner ([Android](https://play.google.com/store/apps/details?id=com.adhoclabs.burner) | [iOS](https://itunes.apple.com/us/app/burner-2nd-phone-number/id505800761&at=1l3vs3K/?at=1l3vs3K))
+- CoverMe ([Android](https://play.google.com/store/apps/details?id=ws.coverme.im) | [iOS](https://itunes.apple.com/us/app/coverme-private-text-call/id593652484&at=1l3vs3K/?at=1l3vs3K)) 
+- TextMe Up ([Android](https://play.google.com/store/apps/details?id=com.textmeinc.textme3&hl=en) | [iOS](https://itunes.apple.com/us/app/textme-up-second-phone-number/id996263494&at=1l3vs3K/?at=1l3vs3K))
+- https://receive-sms-online.com
+- https://receive-sms-now.com
+- https://hs3x.com
+- https://twilio.com
+- https://freesmsverification.com
+- https://freeonlinephone.org
+- https://sms-receive.net
+- https://smsreceivefree.com
+- https://receive-a-sms.com
+- https://receivefreesms.com
+- https://freephonenum.com
+- https://receive-smss.com
+- https://receivetxt.com
+- https://temp-mails.com
+- https://receive-sms.com
+- https://receivesmsonline.net
+- https://receivefreesms.com
+- https://sms-receive.net
+- https://pinger.com
+- https://textnow.com
+- https://receive-a-sms.com
+- https://k7.net
+- https://kall8.com
+- https://faxaway.com
+- https://receivesmsonline.com
+- https://receive-sms-online.info
+- https://sellaite.com
+- https://getfreesmsnumber.com
+- https://smsreceiving.com
+- https://smstibo.com
+- https://catchsms.com
+- https://freesmscode.com
+- https://smsreceiveonline.com
+- https://smslisten.com
+- https://sms.sellaite.com
+- https://smslive.co
+
+credit: https://t.me/iyouport/6597
+
 
 #### 隐私强化前端
 - YouTube -->> [Invidious](https://github.com/iv-org/invidious)![Open-Source Software][oss icon]
@@ -515,7 +565,7 @@ credit: https://t.me/iyouport/12099
   - [OpenStreetMap](https://www.openstreetmap.org/)  
     - [OpenStreetMap 公共实例列表](https://wiki.openstreetmap.org/wiki/Tile_servers)
 
-#### GitHub镜像站/加速器  
+#### GitHub镜像站  
 - [https://hub.fastgit.xyz](https://hub.fastgit.xyz)  
 - [https://cdn.githubjs.cf](https://cdn.githubjs.cf)  
 - [https://gitclone.com](https://gitclone.com)  
@@ -568,6 +618,7 @@ credit: https://t.me/iyouport/12099
 - [编程随想的博客](https://program-think.blogspot.com/)  
 - [digital-rights](https://gitlab.com/mdrights/digital-rights)  
 - [PrivacyTools](https://www.privacytools.io/)
+- [Privacy Guides - Privacy Tools](https://www.privacyguides.org/tools/)  
 - [Prism Break](https://prism-break.org/) / [中文版](https://prism-break.org/zh-TW/) 
 - [The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/guide.html)
 - [iYouPort](https://iyouport.substack.com/)  
@@ -576,6 +627,9 @@ credit: https://t.me/iyouport/12099
 - [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) / [繁体中文版](https://github.com/narwhalacademy/zebra-crossing/blob/master/README-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.md)
 - [EFF｜Surveillance Self-Defense](https://ssd.eff.org/en#index)｜[中文翻译版](https://ocftw.github.io/ssd.eff.org/zh_TW/index.html)
 - [Opsec：翻墙匿名反党圣经](https://community.geph.io/t/topic/6192)
+- [左派如何学会"匿名上网"](https://learnleft.github.io/)
+- [brainfucksec.github.io](https://brainfucksec.github.io/)
+	- [brainfucksec.github.io | android-foss-apps-list](https://brainfucksec.github.io/android-foss-apps-list)
 
 
 ## 参考与鸣谢
@@ -592,7 +646,7 @@ credit: https://t.me/iyouport/12099
 - [libgen](https://2047.one/u/2764)  
 - [NodeBE4](https://github.com/nodebe4)  
 - [NarratorZ-new](https://i2pforum.net/memberlist.php?mode=viewprofile&u=6391)
-- [Privacy Tools](https://www.privacytools.io)   
+
 
 
 [oss icon]: https://raw.githubusercontent.com/reconsidera/awesome-reconsidera-takeaway/main/media/open-source.png
