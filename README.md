@@ -164,6 +164,10 @@
   - [SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)![Open-Source Software][oss icon]  
 - RSS 订阅源查找    
   - [RSSHub-Radar](https://github.com/DIYgod/RSSHub-Radar)![Open-Source Software][oss icon]  
+- 用户脚本管理器  
+  - [Greasemonkey](https://github.com/greasemonkey/greasemonkey/)![Open-Source Software][oss icon] – Firefox
+  - [Violentmonkey](https://github.com/violentmonkey/violentmonkey)![Open-Source Software][oss icon] – Firefox/Chromium
+
 
 #### 浏览器安全性检测  
 - 检测 IP 泄露：[https://ipleak.net/](https://ipleak.net/)  
@@ -606,8 +610,9 @@ credit: https://t.me/iyouport/6597
   - [动漫花园](https://dmhy.org/) – 中文ACG  
 
 #### 学术资源
-- [Libgen](https://libgen.is/) – 电子书/期刊论文  
 - [Z-Library](https://singlelogin.me) – 电子书/期刊论文
+  - [book-searcher](https://github.com/book-searcher-org/book-searcher)![Open-Source Software][oss icon]   
+- [Libgen](https://libgen.is/) – 电子书/期刊论文  
 - [Sci-Hub](https://sci-hub.ru/) – 期刊论文
 - [无产阶级图书馆](https://library.proletarian.me) – 电子书  
 - [书格](https://new.shuge.org/) – 中文古籍  
