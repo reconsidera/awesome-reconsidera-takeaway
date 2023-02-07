@@ -502,7 +502,7 @@ credit: https://t.me/iyouport/6597
 
 #### 隐私强化前端
 - YouTube
-	- Invidious](https://github.com/iv-org/invidious)![Open-Source Software][oss icon]
+	- [Invidious](https://github.com/iv-org/invidious)![Open-Source Software][oss icon]
 		- [Invidious 公共实例列表](https://docs.invidious.io/Invidious-Instances.md)
 	- [FreeTube](https://github.com/FreeTubeApp/FreeTube)![Open-Source Software][oss icon]
 - Twitter
@@ -512,7 +512,7 @@ credit: https://t.me/iyouport/6597
 	- [Bibliogram](https://sr.ht/~cadence/bibliogram/)![Open-Source Software][oss icon]
 		- [Bibliogram 公共实例列表](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
 - Tiktok
-	- [ProxiTok](https://github.com/pablouser1/ProxiTok)
+	- [ProxiTok](https://github.com/pablouser1/ProxiTok)![Open-Source Software][oss icon]
 		- [ProxiTok 公共实例列表](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
 - Reddit
 	- [Libreddit](https://github.com/spikecodes/libreddit#instances)![Open-Source Software][oss icon]
