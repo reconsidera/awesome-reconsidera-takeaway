@@ -501,17 +501,28 @@ credit: https://t.me/iyouport/6597
 
 
 #### 隐私强化前端
-- YouTube -->> [Invidious](https://github.com/iv-org/invidious)![Open-Source Software][oss icon]
-	- [Invidious 公共实例列表](https://docs.invidious.io/Invidious-Instances.md)
-- YouTube -->> [FreeTube](https://github.com/FreeTubeApp/FreeTube)![Open-Source Software][oss icon]
-- Twitter -->> [Nitter](https://github.com/zedeus/nitter)![Open-Source Software][oss icon]  
-  - [Nitter 公共实例列表](https://github.com/zedeus/nitter/wiki/Instances)
-- Instagram-->> [Bibliogram](https://sr.ht/~cadence/bibliogram/)![Open-Source Software][oss icon]
-  - [Bibliogram 公共实例列表](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
-- Reddit -->> [Libreddit](https://github.com/spikecodes/libreddit#instances)![Open-Source Software][oss icon]
-	- [Libreddit 公共实例列表](https://github.com/spikecodes/libreddit#instances)
-- Reddit -->> [Teddit](https://codeberg.org/teddit/teddit)![Open-Source Software][oss icon]
-	- [Teddit  公共实例列表](https://codeberg.org/teddit/teddit#instances)
+- YouTube
+	- Invidious](https://github.com/iv-org/invidious)![Open-Source Software][oss icon]
+		- [Invidious 公共实例列表](https://docs.invidious.io/Invidious-Instances.md)
+	- [FreeTube](https://github.com/FreeTubeApp/FreeTube)![Open-Source Software][oss icon]
+- Twitter
+	- [Nitter](https://github.com/zedeus/nitter)![Open-Source Software][oss icon]  
+		- [Nitter 公共实例列表](https://github.com/zedeus/nitter/wiki/Instances)
+- Instagram
+	- [Bibliogram](https://sr.ht/~cadence/bibliogram/)![Open-Source Software][oss icon]
+		- [Bibliogram 公共实例列表](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
+- Tiktok
+	- [ProxiTok](https://github.com/pablouser1/ProxiTok)
+		- [ProxiTok 公共实例列表](https://github.com/pablouser1/ProxiTok/wiki/Public-instances)
+- Reddit
+	- [Libreddit](https://github.com/spikecodes/libreddit#instances)![Open-Source Software][oss icon]
+		- [Libreddit 公共实例列表](https://github.com/spikecodes/libreddit#instances)
+	- [Teddit](https://codeberg.org/teddit/teddit)![Open-Source Software][oss icon]
+		- [Teddit 公共实例列表](https://codeberg.org/teddit/teddit#instances)
+- 哔哩哔哩
+	- [MikuInvidious](https://mi.resrv.org/)![Open-Source Software][oss icon]
+		- [MikuInvidious 公共实例](https://mikuinv.resrv.org/)
+- 更多参见 [Libredirect](https://libredirect.github.io/)	
 
 
 ### 日常办公
@@ -600,6 +611,7 @@ credit: https://t.me/iyouport/6597
 - [Sci-Hub](https://sci-hub.ru/) – 期刊论文
 - [无产阶级图书馆](https://library.proletarian.me) – 电子书  
 - [书格](https://new.shuge.org/) – 中文古籍  
+- [awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) – 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新 
 - 更多参见 [缪缪收藏的图书网址信息](https://bgme.me/@Camus/109284118369473526)
 
 #### 被屏蔽资源镜像站
@@ -627,7 +639,7 @@ credit: https://t.me/iyouport/6597
 - [Zebra Crossing](https://github.com/narwhalacademy/zebra-crossing) / [繁体中文版](https://github.com/narwhalacademy/zebra-crossing/blob/master/README-%E7%B9%81%E9%AB%94%E4%B8%AD%E6%96%87.md)
 - [EFF｜Surveillance Self-Defense](https://ssd.eff.org/en#index)｜[中文翻译版](https://ocftw.github.io/ssd.eff.org/zh_TW/index.html)
 - [Opsec：翻墙匿名反党圣经](https://community.geph.io/t/topic/6192)
-- [左派如何学会"匿名上网"](https://learnleft.github.io/)
+- [左派信息安全指南](https://learnleft.github.io/)
 - [brainfucksec.github.io](https://brainfucksec.github.io/)
 	- [brainfucksec.github.io | android-foss-apps-list](https://brainfucksec.github.io/android-foss-apps-list)
 
